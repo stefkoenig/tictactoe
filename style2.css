@@ -1,0 +1,30 @@
+
+.gameboard{
+  text-align: center;
+}
+
+.box {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+  border: black 2px solid;
+  display: inline-block;
+}
+
+#cross{
+  width: 100px;
+}
+
+#doughnut{
+  width: 100px;
+}
+
+.cross{
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.nought{
+    border: 2px dashed blue;
+    display: inline-block;
+}
